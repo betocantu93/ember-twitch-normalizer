@@ -11,7 +11,7 @@
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "betocantu93/ember-twitch-normalizer",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
